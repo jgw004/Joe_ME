@@ -2,11 +2,11 @@
 
 🚀 I'm actively pursuing a career in the DevOps field, currently studying for the AWS Solutions Architect certificate (expected completion: February 15). My focus includes working on exciting projects involving Terraform, CICD methods, Cloud environments, and containerization.
 
-📚 Completed courses and certificates:
-- *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS.
-- *AWS Technical Essentials* (AWS)
-- *Intensive Cloud Training* (via The Cloud Bootcamp).
-- *DevOps Bootcamp* (by GeeksForGeeks).
+### 📚Completed courses and certificates:
+1. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
+2. *AWS Technical Essentials* (AWS)
+3. *Intensive Cloud Training* (via The Cloud Bootcamp)
+4. *DevOps Bootcamp* (by GeeksForGeeks)
 
 For more detail into my experiences and skills, please visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile!
 <br><br>
@@ -22,4 +22,4 @@ For more detail into my experiences and skills, please visit my [LinkedIn](https
 <br><br>
 ## MISC PROJECT INTERESTS
 
-✏️  I enjoy programming and automating spreadsheets for planning tasks and financial decisions. My favorite part is when I have the opportunity to help others improve their future decisions too!
+✏️  In my free time, you'll likely find me immersed in one of the many Star Wars books or coding a program to simplify planning and mundane tasks. What I love most about the latter is the chance to assist others in enhancing their future decision-making as well!
