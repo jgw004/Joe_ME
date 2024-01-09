@@ -1,11 +1,10 @@
-👋 Hello!  I’m a graduate student seeking to delve into cloud and DevOp practices.<br>
-For those interested, I've put together a brief rundown of my skills, aspirations, and interests. I hope you enjoy!
+For those interested, I've put together a brief rundown of my skills, aspirations, and interests. Hope you enjoy!
 
 # INTRODUCTION
 
-🚀 My current endeavors within the DevOps field include studying for the AWS Solutions Architect certificate (February 15), pursuing great project ideas involving Terraform, CICD methods, Cloud environments, and containerization.
+🚀 My career endeavors fall within the DevOps field include studying for the AWS Solutions Architect certificate (February 15), pursuing great project ideas involving Terraform, CICD methods, Cloud environments, and containerization.
 
-📚 A few courses and/or certificates that I've completed include *Linux Administration* (course by Jason Cannon) for an architectural overview of the Linux OS, *Intensive Cloud Training* (via The Cloud Bootcamp), and a *Devops Bootcamp* (by GeeksForGeeks). Please, visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) for a broader overview of my experience and skills!
+📚 A few courses and/or certificates that I've completed include *Linux Administration* (course by Jason Cannon) for an architectural overview of the Linux OS, *Intensive Cloud Training* (via The Cloud Bootcamp), and a *Devops Bootcamp* (by GeeksForGeeks). Please, visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile for a broader overview of my experience and skills!
 <br><br>
 # TECHNICAL
 
@@ -20,5 +19,8 @@ For those interested, I've put together a brief rundown of my skills, aspiration
 ## MISC PROJECT INTERESTS
 
 ✏️  Many of the projects that I personally enjoy are programming and automating spreadsheets for planning or prepping future decisions and finances. For me, the best part about practicing these skills is the opportunity to help others hone them as well!
+
+
+
 
 
