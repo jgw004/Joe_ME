@@ -1,10 +1,14 @@
-For those interested, I've put together a brief rundown of my skills, aspirations, and interests. Hope you enjoy!
-
 # INTRODUCTION
 
-🚀 My career endeavors fall within the DevOps field include studying for the AWS Solutions Architect certificate (February 15), pursuing great project ideas involving Terraform, CICD methods, Cloud environments, and containerization.
+🚀 I'm actively pursuing a career in the DevOps field, currently studying for the AWS Solutions Architect certificate (expected completion: February 15). My focus includes working on exciting projects involving Terraform, CICD methods, Cloud environments, and containerization.
 
-📚 A few courses and/or certificates that I've completed include *Linux Administration* (course by Jason Cannon) for an architectural overview of the Linux OS, *Intensive Cloud Training* (via The Cloud Bootcamp), and a *Devops Bootcamp* (by GeeksForGeeks). Please, visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile for a broader overview of my experience and skills!
+📚 Completed courses and certificates:
+- *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS.
+- *AWS Technical Essentials* (AWS)
+- *Intensive Cloud Training* (via The Cloud Bootcamp).
+- *DevOps Bootcamp* (by GeeksForGeeks).
+
+For more detail into my experiences and skills, please visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile!
 <br><br>
 # TECHNICAL
 
@@ -12,15 +16,10 @@ For those interested, I've put together a brief rundown of my skills, aspiration
 <br><br>
 # ABOUT ME
 
-🎓 I’m currently finishing my masters degree where I get to use computational methods and apply them to biochemical models. I started graduate school as a means to continue learning, while I figured out what to do. Fortunately, my program experience hasn’t been a bad one. Its actually brought me closer to technology and allowed me to learn hands-on under the supervision of a talented mentor.
+🎓 I will be graduating SP'24 with my master's degree, of which I have had the opportunity to apply computational methods for analyzing and simulating biophysical models. Starting graduate school as a quest for continuous learning, I've had a positive and incredibly fulfilling experience.
 
-☁️  I started becoming interested in learning more about devops and the tools associated, as I began hearing more and more about ’the cloud’. Everyone’s first impression is probably the same, like ‘how the heck do we use clouds?’ For me, that was enough to spark my interest.
+☁️  However, my interest in devops grew as I explored 'the cloud.' Despite my initial confusion, delving into this area has been insightful and fascinating, which I expect will continue.
 <br><br>
 ## MISC PROJECT INTERESTS
 
-✏️  Many of the projects that I personally enjoy are programming and automating spreadsheets for planning or prepping future decisions and finances. For me, the best part about practicing these skills is the opportunity to help others hone them as well!
-
-
-
-
-
+✏️  I enjoy programming and automating spreadsheets for planning tasks and financial decisions. My favorite part is when I have the opportunity to help others improve their future decisions too!
