@@ -1,6 +1,8 @@
 # INTRODUCTION
 
-🚀 I'm actively pursuing a career in the DevOps field, currently studying for the AWS Solutions Architect certificate (expected completion: February 15). My focus includes working on exciting projects involving Terraform, CICD methods, Cloud environments, and containerization.
+🚀 I'm actively finishing my MS degree (Sp'24 🎓), while simultaneously pursuing a career in the DevOps field!
++ My focus has included fundamental exercises/tutorials to better understand how IaC (Terraform), CICD methods, Cloud environments, and containerization applications tie together the overall workflow of a devops engineer!
++ Currently studying for the *Terraform Associate (003)* Certificate. 
 
 ### 📚Completed courses and certificates:
 1. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
