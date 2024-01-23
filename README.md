@@ -1,7 +1,7 @@
 # INTRODUCTION
 
 🚀 I'm actively finishing my MS degree (SP'24 🎓), while simultaneously pursuing a career in the DevOps field!<br>
-+ Fundamental understandings, deeper knowledge in aspects of Linux, of **IaC** (Terraform), **CICD** (Jenkins) methods, **Cloud** (AWS, GCP) environments, and **containerization** (Docker) applications
++ Fundamental understandings, deeper knowledge in aspects of Linux, of IaC (**Terraform**), CICD (**Jenkins**) methods, Cloud (**AWS**, GCP) environments, and containerization (**Docker**) applications
 + Currently studying for the *Terraform Associate (003)* Certificate
 
 ### 📚Completed courses and certificates:
