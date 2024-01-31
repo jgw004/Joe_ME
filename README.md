@@ -3,7 +3,7 @@
 🎓 I will be graduating SP'24 with my master's degree. I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote HPCs. Despite the initial waves of confusion 🧐 my interest in using devops workflows has grown exponentially over the last 6 months. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!<br>
 
 # 📚Completed courses and certificates:
-1. ***Certified Terraform Associate (003)***
+1. ***HashiCorp Certified: Terraform Associate (003)***
 2. *AWS Technical Essentials* (AWS Solutions Architect)
 3. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
 4. *Intensive Cloud Training* (via The Cloud Bootcamp)
