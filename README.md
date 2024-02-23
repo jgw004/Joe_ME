@@ -1,6 +1,8 @@
 # ABOUT ME
 
-🎓 I will be graduating SP'24 with my master's degree. I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote HPCs. Despite the initial waves of confusion 🧐 my interest in using devops workflows has grown exponentially over the last 6 months. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!<br>
+🎓 I will be graduating SP'24 with my master's degree in computational chemistry. I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
+
+In the last six months, my journey into the realm of DevOps has been a dynamic blend of text-based exploration and hands-on application. Following the advice of a talented mentor, I have spent this time focusing on Infrastructure as Code (IaC), cloud development and management, as well as aspects in containerization. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!<br>
 
 # 📚Completed courses and certificates:
 1. ***HashiCorp Certified: Terraform Associate (003)***
@@ -17,5 +19,5 @@ For more detail into my experiences and skills, please visit my [LinkedIn](https
 
 ## MISC PROJECT INTERESTS
 
-✌️ In my free time, I can be found catching up with friends, immersed in one of the many Star Wars books or exploring a new hobby!
+✌️ In my free time from learning these valuable skills, I can be found catching up with friends, immersed in one of the many Star Wars books or exploring a new hobby!
  
