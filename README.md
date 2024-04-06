@@ -1,15 +1,15 @@
 # ABOUT ME
 
-🎓 I will be graduating SP'24 with my master's degree in computational chemistry. I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
+🎓 I will be graduating SP'24 with a MS Chemistry (Computational). I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
 
 In the last six months, my journey into the realm of DevOps has been a dynamic blend of text-based exploration and hands-on application. Following the advice of a talented mentor, I have spent this time focusing on Infrastructure as Code (IaC), cloud development and management, as well as aspects in containerization. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!<br>
 
 # 📚Completed courses and certificates:
-1. ***HashiCorp Certified: Terraform Associate (003)***
-2. *AWS Technical Essentials* (AWS Solutions Architect)
-3. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
-4. *Intensive Cloud Training* (via The Cloud Bootcamp)
-5. *DevOps Bootcamp* (by GeeksForGeeks)
+1. ***AWS Certified Cloud Practioner (CF-02)***
+2. ***HashiCorp Certified: Terraform Associate (003)***
+3. *AWS Technical Essentials* (AWS Solutions Architect)
+4. *Linux Administration* (by Jason Cannon) for a comprehensive understanding of the Linux OS
+5. *Intensive Cloud Training* (via The Cloud Bootcamp)
 
 For more detail into my experiences and skills, please visit my [LinkedIn](https://www.linkedin.com/in/joseph-williamson-373359107/) profile!<br>
 
