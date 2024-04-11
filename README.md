@@ -1,6 +1,6 @@
 # ABOUT ME
 
-🎓 I will be graduating SP'24 with a MS Chemistry (Computational). I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
+🎓 I am graduating FA'24 with an MS Chemistry (Computational). I have had an amazing opportunity to apply computational methods for analyzing and simulating biophysical models on local and remote systems. The coding aspect of this journey has been the binding force for me to continue, thus, I decided to undertake a full dive into that aspect with the addition of cloud applications.
 
 In the last six months, my journey into the realm of DevOps has been a dynamic blend of text-based exploration and hands-on application. Following the advice of a talented mentor, I have spent this time focusing on Infrastructure as Code (IaC), cloud development and management, as well as aspects in containerization. Delving into this field has been insightful, challenging, and fascinating, all of which I expect to continue!<br>
 
